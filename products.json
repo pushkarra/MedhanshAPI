@@ -1,1066 +1,510 @@
 [
     {
-        "id": "firstelectronicsa",
-        "name": "Led Panel Light",
-        "category": "Led Panel",
-        "subcategory": "Panel",
+        "id": "medhanshlightinga",
+        "name": "IL-4404 Wall Light",
+        "category": "Crystal Ball",
+        "subcategory": "LED: 1X4=4W & 3X4=12W",
         "image": "pics/1_1.jpg",
         "imageie": "/pics/1_1.jpg",
-        "power": ["8 Watt","12 Watt","15 Watt","22 Watt"],
-        "typeo": "Round",
-        "lumen": ["880 Lm","1320 Lm","1650 Lm","2420 Lm"],
+        "colortemp": ["3000K","6000K","RGB"],
+        "typeo": "Die Casting Aluminium with PC Lens",
         "size" : ["4 Inch","5 Inch","6 Inch","8 Inch"],
-        "colors": ["#F4FDFF","#F9F7F8","#FDF4DC","#FF1A1A","#6EC531","#005aff","#F88CAE"],
-        "features": ["1. Poly carbonate housing with high efficient smd led backlit technology.", "2. Anti-Glare diffuser gives a soft & comfortable environment.", "3. Inbuilt driver with protections on board.", "4. High quality panel light round & square wide range with colours.", "5. Cool source of light.", "6. Available in Tri-Colour setup with (Cool White + Warm White + Natural White)"],
+        "colors": ["Graphite Grey/Black"],
+        "features": ["1. "],
         "featured": true
     },
 
     {
-        "id": "firstelectronicsb",
-        "name": "Led Panel Light 2",
-        "category": "Led Panel",
-        "subcategory": "Panel",
+        "id": "medhanshlightingb",
+        "name": "IL-4404 Wall Light",
+        "category": "Crystal Ball",
+        "subcategory": "LED: 3X2=6W",
         "image": "pics/1_2.jpg",
         "imageie": "/pics/1_2.jpg",
-        "power": ["8 Watt","12 Watt","15 Watt","22 Watt"],
-        "typeo": "Square",
-        "lumen": ["880 Lm","1320 Lm","1650 Lm","2420 Lm"],
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Lens",
         "size" : ["4 Inch","5 Inch","6 Inch","8 Inch"],
-        "colors": ["#F4FDFF","#F9F7F8","#FDF4DC","#FF1A1A","#6EC531","#005aff","#F88CAE"],
-        "features": ["1. Poly carbonate housing with high efficient smd led backlit technology.", "2. Anti-Glare diffuser gives a soft & comfortable environment.", "3. Inbuilt driver with protections on board.", "4. High quality panel light round & square wide range with colours.", "5. Cool source of light.", "6. Available in Tri-Colour setup with (Cool White + Warm White + Natural White)"],
+        "colors": ["Graphite Grey/Black"],
+        "features": ["1. "],
         "featured": false
     },
 
     {
-        "id": "firstelectronicsc",
-        "name": "Led Downlight",
-        "category": "Led Panel",
-        "subcategory": "Panel",
+        "id": "medhanshlightingc",
+        "name": "IL-4404 Wall Light",
+        "category": "Crystal Ball",
+        "subcategory": "LED: 3W",
+        "image": "pics/1_3.jpg",
+        "imageie": "/pics/1_3.jpg",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Lens",
+        "size" : ["4 Inch","5 Inch","6 Inch","8 Inch"],
+        "colors": ["Graphite Grey/Black"],
+        "features": ["1. "],
+        "featured": false
+    },
+
+    {
+        "id": "medhanshlightingd",
+        "name": "IL-0606 Led 2 Way Wall Light",
+        "category": "Leaf",
+        "subcategory": "Watt: 2W",
         "image": "pics/2_1.jpg",
         "imageie": "/pics/2_1.jpg",
-        "power": ["7 Watt"],
-        "typeo": "Round",
-        "lumen": ["880 Lm"],
-        "size" : ["3.25 Inch"],
-        "colors": ["#F4FDFF","#F9F7F8","#FDF4DC","#FF1A1A","#6EC531","#005aff","#F88CAE"],
-        "features": ["1. Poly carbonate housing with high efficient smd led backlit technology.", "2. Anti-Glare diffuser gives a soft & comfortable environment.", "3. Inbuilt driver with protections on board.", "4. High quality panel light round & square wide range with colours.", "5. Cool source of light.", "6. Available in Tri-Colour setup with (Cool White + Warm White + Natural White)"],
-        "featured": false
-    },
-
-    {
-        "id": "firstelectronicsd",
-        "name": "Led Downlight 2",
-        "category": "Led Panel",
-        "subcategory": "Panel",
-        "image": "pics/2_2.jpg",
-        "imageie": "/pics/2_2.jpg",
-        "power": ["7 Watt"],
-        "typeo": "Round",
-        "lumen": ["880 Lm"],
-        "size" : ["3.25 Inch"],
-        "colors": ["#F4FDFF","#F9F7F8","#FDF4DC","#FF1A1A","#6EC531","#005aff","#F88CAE"],
-        "features": ["1. Poly carbonate housing with high efficient smd led backlit technology.", "2. Anti-Glare diffuser gives a soft & comfortable environment.", "3. Inbuilt driver with protections on board.", "4. High quality panel light round & square wide range with colours.", "5. Cool source of light.", "6. Available in Tri-Colour setup with (Cool White + Warm White + Natural White)"],
+        "power": ["2 W"],
+        "colortemp": ["3000K"],
+        "colors": ["Grey/Black"],
         "featured": false
     },
 
 
     {
-        "id": "firstelectronicse",
-        "name": "Adjustable Led Panel Light",
-        "category": "Led Panel",
-        "subcategory": "Panel",
+        "id": "medhanshlightinge",
+        "name": "IL-129 Led Up-Down Wall Light",
+        "category": "Shield",
+        "subcategory": "Watt: 3W/5w",
         "image": "pics/3_1.jpg",
         "imageie": "/pics/3_1.jpg",
-        "power": ["12 Watt", "15 Watt"],
-        "typeo": "Square",
-        "lumen": ["1320 Lm", "1650 Lm"],
-        "size" : ["2.4 Inch", "3.5 Inch"],
-        "colors": ["#F4FDFF","#F9F7F8","#FDF4DC","#FF1A1A","#6EC531","#005aff","#F88CAE"],
-        "features": ["1. Poly carbonate housing with high efficient smd led backlit technology.", "2. Anti-Glare diffuser gives a soft & comfortable environment.", "3. Inbuilt driver with protections on board.", "4. High quality panel light round & square wide range with colours.", "5. Cool source of light.", "6. Available in Tri-Colour setup with (Cool White + Warm White + Natural White)"],
+        "power": ["3W", "5W"],
+        "colortemp": ["3000K"],
+        "colors": ["Grey/Black"],
         "featured": false
     },
 
     {
-        "id": "firstelectronicsf",
-        "name": "Adjustable Led Panel Light 2",
-        "category": "Led Panel",
-        "subcategory": "Panel",
-        "image": "pics/3_3.jpg",
-        "imageie": "/pics/3_3.jpg",
-        "power": ["12 Watt", "15 Watt"],
-        "typeo": "Round",
-        "lumen": ["1320 Lm", "1650 Lm"],
-        "size" : ["2.4 Inch", "3.5 Inch"],
-        "colors": ["#F4FDFF","#F9F7F8","#FDF4DC","#FF1A1A","#6EC531","#005aff","#F88CAE"],
-        "features": ["1. Poly carbonate housing with high efficient smd led backlit technology.", "2. Anti-Glare diffuser gives a soft & comfortable environment.", "3. Inbuilt driver with protections on board.", "4. High quality panel light round & square wide range with colours.", "5. Cool source of light.", "6. Available in Tri-Colour setup with (Cool White + Warm White + Natural White)"],
+        "id": "medhanshlightingf",
+        "name": "IL-129 Led Up-Down Wall Light",
+        "category": "Shield",
+        "subcategory": "Watt: 3W/5w",
+        "image": "pics/3_2.jpg",
+        "imageie": "/pics/3_2.jpg",
+        "power": ["3W", "5W"],
+        "colortemp": ["3000K"],
+        "colors": ["Grey/Black"],
         "featured": false
     },
 
     {
-        "id": "firstelectronicsg",
-        "name": "Led Moon Light",
-        "category": "Led Panel",
-        "subcategory": "Panel",
+        "id": "medhanshlightingg",
+        "name": "IL-4566 Wonder Led Way Wall Light",
+        "category": "Wonder",
+        "subcategory": "Watt: 8W",
         "image": "pics/4_1.jpg",
         "imageie": "/pics/4_1.jpg",
-        "power": ["8 Watt", "12 Watt", "15 Watt"],
-        "typeo": "Round",
-        "lumen": ["880 Lm", "1320 Lm", "1650 Lm"],
-        "size" : ["4 Inch", "5 Inch", "6 Inch"],
-        "colors": ["#F4FDFF","#F9F7F8","#FDF4DC","#FF1A1A","#6EC531","#005aff","#F88CAE"],
-        "features": ["1. Poly carbonate housing with high efficient smd led backlit technology.", "2. Anti-Glare diffuser gives a soft & comfortable environment.", "3. Inbuilt driver with protections on board.", "4. High quality panel light round & square wide range with colours.", "5. Cool source of light.", "6. Available in Tri-Colour setup with (Cool White + Warm White + Natural White)"],
+        "power": ["8W"],
+        "colortemp": ["3000K"],
+        "colors": ["Grey/Black"],
         "featured": false
     },
 
-
-
     {
-        "id": "lunatica",
-        "name": "7W",
-        "category": "Downlight & MCPCB Solution",
-        "subcategory": "Single Color Downlight",
-        "image": "pics/5_a.jpg",
-        "imageie": "/pics/5_a.jpg",
-        "voltage1": "100 - 300V",
-        "voltage2": "100V",
-        "current": "60 - 120MA",
-        "pf": ">0.9",
-        "surge": "4KV",
-        "typeo": "Non Isolated"
-
-    },
-
-    {
-        "id": "tropica",
-        "name": "10 LED Downlight",
-        "category": "Downlight & MCPCB Solution",
-        "subcategory": "Single Color Downlight",
-        "image": "pics/5_b.jpg",
-        "imageie": "/pics/5_b.jpg",
-        "dimension": "32 X 32MM",
-        "color": "All Color",
-        "typeo": "Square"
-
-    },
-
-    {
-        "id": "tropicb",
-        "name": "10 LED Downlight 2",
-        "category": "Downlight & MCPCB Solution",
-        "subcategory": "Single Color Downlight",
-        "image": "pics/5_c.jpg",
-        "imageie": "/pics/5_c.jpg",
-        "dimension": "45MM",
-        "color": "All Color",
-        "typeo": "Round"
-
-    },
-
-    {
-        "id": "tropicc",
-        "name": "9 LED Downlight",
-        "category": "Downlight & MCPCB Solution",
-        "subcategory": "Single Color Downlight",
-        "image": "pics/5_d.jpg",
-        "imageie": "/pics/5_d.jpg",
-        "dimension": "45MM",
-        "color": "All Color",
-        "typeo": "Round"
-
-    },
-
-    
-    {
-        "id": "lunaticb",
-        "name": "7W Tri Color",
-        "category": "Downlight & MCPCB Solution",
-        "subcategory": "Tri Color Downlight",
-        "image": "pics/6_a.jpg",
-        "imageie": "/pics/6_a.jpg",
-        "voltage1": "100 - 300V",
-        "voltage2": "100V",
-        "current": "60 - 120MA",
-        "pf": ">0.9",
-        "surge": "4KV",
-        "typeo": "Non Isolated"
-
-    },
-
-    {
-        "id": "tropicd",
-        "name": "10+10 LED",
-        "category": "Downlight & MCPCB Solution",
-        "subcategory": "Tri Color Downlight",
-        "image": "pics/6_b.jpg",
-        "imageie": "/pics/6_b.jpg",
-        "dimension": "45MM",
-        "color": "All Color",
-        "typeo": "Round"
-
-    },
-
-    {
-        "id": "tropice",
-        "name": "7+7 LED",
-        "category": "Downlight & MCPCB Solution",
-        "subcategory": "Tri Color Downlight",
-        "image": "pics/6_c.jpg",
-        "imageie": "/pics/6_c.jpg",
-        "dimension": "34MM",
-        "color": "All Color",
-        "typeo": "Square"
-
-    },
-
-    {
-        "id": "lunaticc",
-        "name": "8W",
-        "category": "4 Inch Panel & PCB Solution",
-        "subcategory": "Single Color 4 Panel",
-        "image": "pics/7_a.jpg",
-        "imageie": "/pics/7_a.jpg",
-        "voltage1": "100 - 300V",
-        "voltage2": "100V",
-        "current": "120MA",
-        "pf": ">0.9",
-        "surge": "4KV",
-        "typeo": "Non Isolated"
-
-    },
-
-    {
-        "id": "tropicf",
-        "name": "60 LED",
-        "category": "4 Inch Panel & PCB Solution",
-        "subcategory": "Single Color 4 Panel",
-        "image": "pics/7_b.jpg",
-        "imageie": "/pics/7_b.jpg",
-        "dimension": "84MM",
-        "color": "All Color",
-        "typeo": "Square"
-
-    },
-
-    {
-        "id": "tropicg",
-        "name": "60 LED 2",
-        "category": "4 Inch Panel & PCB Solution",
-        "subcategory": "Single Color 4 Panel",
-        "image": "pics/7_c.jpg",
-        "imageie": "/pics/7_c.jpg",
-        "dimension": "80MM",
-        "color": "All Color",
-        "typeo": "Round"
-
-    },
-
-    {
-        "id": "lunaticd",
-        "name": "8W Tri Color",
-        "category": "4 Inch Panel & PCB Solution",
-        "subcategory": "Tri Color 4 Panel",
-        "image": "pics/8_a.jpg",
-        "imageie": "/pics/8_a.jpg",
-        "voltage1": "100 - 300V",
-        "voltage2": "100V",
-        "current": "120MA",
-        "pf": ">0.9",
-        "surge": "4KV",
-        "typeo": "Non Isolated"
-
-    },
-
-    {
-        "id": "tropich",
-        "name": "60+60 LED",
-        "category": "4 Inch Panel & PCB Solution",
-        "subcategory": "Tri Color 4 Panel",
-        "image": "pics/8_b.jpg",
-        "imageie": "/pics/8_b.jpg",
-        "dimension": "84MM",
-        "color": "All Color",
-        "typeo": "Square",
-        "featured":true
-
-    },
-
-    {
-        "id": "tropici",
-        "name": "60+60 LED 2",
-        "category": "4 Inch Panel & PCB Solution",
-        "subcategory": "Tri Color 4 Panel",
-        "image": "pics/8_c.jpg",
-        "imageie": "/pics/8_c.jpg",
-        "dimension": "80MM",
-        "color": "All Color",
-        "typeo": "Round"
-
-    },
-
-    {
-        "id": "tropicj",
-        "name": "21+21 LED",
-        "category": "4 Inch Panel & PCB Solution",
-        "subcategory": "Tri Color 4 Panel",
-        "image": "pics/8_d.jpg",
-        "imageie": "/pics/8_d.jpg",
-        "dimension": "80MM",
-        "color": "All Color & Rainbow",
-        "typeo": "Round"
-
-    },
-
-    {
-        "id": "lunatice",
-        "name": "12-18W",
-        "category": "5 Inch Panel & PCB Solution",
-        "subcategory": "Single Color 5 Panel",
-        "image": "pics/9_a.jpg",
-        "imageie": "/pics/9_a.jpg",
-        "voltage1": "100 - 300V",
-        "voltage2": "100V",
-        "current": "180MA",
-        "pf": ">0.9",
-        "surge": "4KV",
-        "typeo": "Non Isolated"
-
-    },
-
-    {
-        "id": "tropick",
-        "name": "96 LED",
-        "category": "5 Inch Panel & PCB Solution",
-        "subcategory": "Single Color 5 Panel",
-        "image": "pics/9_b.jpg",
-        "imageie": "/pics/9_b.jpg",
-        "dimension": "110MM",
-        "color": "All Color",
-        "typeo": "Round"
-
-    },
-
-    {
-        "id": "tropicl",
-        "name": "96 LED 2",
-        "category": "5 Inch Panel & PCB Solution",
-        "subcategory": "Single Color 5 Panel",
-        "image": "pics/9_c.jpg",
-        "imageie": "/pics/9_c.jpg",
-        "dimension": "110MM",
-        "color": "All Color",
-        "typeo": "Square"
-
-    },
-
-    {
-        "id": "lunaticf",
-        "name": "12-18W Tri Color",
-        "category": "5 Inch Panel & PCB Solution",
-        "subcategory": "Tri Color 5 Panel",
-        "image": "pics/10_a.jpg",
-        "imageie": "/pics/10_a.jpg",
-        "voltage1": "100 - 300V",
-        "voltage2": "100V",
-        "current": "180MA",
-        "pf": ">0.9",
-        "surge": "4KV",
-        "typeo": "Non Isolated"
-
-    },
-
-    {
-        "id": "tropicm",
-        "name": "96+96 LED",
-        "category": "5 Inch Panel & PCB Solution",
-        "subcategory": "Tri Color 5 Panel",
-        "image": "pics/10_b.jpg",
-        "imageie": "/pics/10_b.jpg",
-        "dimension": "110MM",
-        "color": "All Color",
-        "typeo": "Square",
+        "id": "medhanshlightingh",
+        "name": "IL-218 Dhruv Led Wall Light",
+        "category": "Dhruv",
+        "subcategory": "Watt: 12W",
+        "image": "pics/5_1.jpg",
+        "imageie": "/pics/5_1.jpg",
+        "power": ["12W"],
+        "colortemp": ["3000K"],
+        "colors": ["Grey/Black"],
         "featured": false
-
     },
 
     {
-        "id": "tropicn",
-        "name": "96+96 LED 2",
-        "category": "5 Inch Panel & PCB Solution",
-        "subcategory": "Tri Color 5 Panel",
-        "image": "pics/10_c.jpg",
-        "imageie": "/pics/10_c.jpg",
-        "dimension": "110MM",
-        "color": "All Color",
-        "typeo": "Round"
-
-    },
-
-
-    {
-        "id": "tropico",
-        "name": "35+35 LED",
-        "category": "5 Inch Panel & PCB Solution",
-        "subcategory": "Tri Color 5 Panel",
-        "image": "pics/10_d.jpg",
-        "imageie": "/pics/10_d.jpg",
-        "dimension": "110MM",
-        "color": "All Color & Rainbow",
-        "typeo": "Round"
-
+        "id": "medhanshlightingi",
+        "name": "IL-066 Butterfly Led Wall Light",
+        "category": "Butterfly",
+        "subcategory": "Watt: 6W",
+        "image": "pics/6_1.jpg",
+        "imageie": "/pics/6_1.jpg",
+        "power": ["6W"],
+        "colortemp": ["3000K"],
+        "colors": ["Black-Golden"],
+        "featured": false
     },
 
     {
-        "id": "lunaticg",
-        "name": "12-18W Single",
-        "category": "6 Inch Panel & PCB Solution",
-        "subcategory": "Single Color 6 Panel",
-        "image": "pics/11_a.jpg",
-        "imageie": "/pics/11_a.jpg",
-        "voltage1": "100 - 300V",
-        "voltage2": "100V",
-        "current": "180MA",
-        "pf": ">0.9",
-        "surge": "4KV",
-        "typeo": "Non Isolated"
-
+        "id": "medhanshlightingj",
+        "name": "IL-939 Hybrid Led Down Light",
+        "category": "Hybrid",
+        "subcategory": "Watt: 2W",
+        "image": "pics/7_1.jpg",
+        "imageie": "/pics/7_1.jpg",
+        "power": ["2W"],
+        "colortemp": ["3000K"],
+        "colors": ["Grey/Black"],
+        "featured": false
     },
 
     {
-        "id": "tropicp",
-        "name": "130 LED",
-        "category": "6 Inch Panel & PCB Solution",
-        "subcategory": "Single Color 6 Panel",
-        "image": "pics/11_b.jpg",
-        "imageie": "/pics/11_b.jpg",
-        "dimension": "130MM",
-        "color": "All Color",
-        "typeo": "Square"
-
+        "id": "medhanshlightingk",
+        "name": "IL-939 Hybrid Led Down Light",
+        "category": "Hybrid",
+        "subcategory": "Watt: 3W",
+        "image": "pics/7_2.jpg",
+        "imageie": "/pics/7_2.jpg",
+        "power": ["3W"],
+        "colortemp": ["3000K"],
+        "colors": ["Grey/Black"],
+        "featured": false
     },
 
     {
-        "id": "tropicq",
-        "name": "130 LED 2",
-        "category": "6 Inch Panel & PCB Solution",
-        "subcategory": "Single Color 6 Panel",
-        "image": "pics/11_c.jpg",
-        "imageie": "/pics/11_c.jpg",
-        "dimension": "130MM",
-        "color": "All Color",
-        "typeo": "Round"
-
+        "id": "prism1",
+        "name": "IL-0222/1 Prism Led Wall Light",
+        "category": "Prism",
+        "subcategory": "Watt: 1W",
+        "image": "pics/8_1.jpg",
+        "imageie": "/pics/8_1.jpg",
+        "power": ["1W"],
+        "dimension": "140X95X40",
+        "featured": false
     },
 
     {
-        "id": "lunatich",
-        "name": "12-18W Panel",
-        "category": "6 Inch Panel & PCB Solution",
-        "subcategory": "Tri Color 6 Panel",
-        "image": "pics/12_a.jpg",
-        "imageie": "/pics/12_a.jpg",
-        "voltage1": "100 - 300V",
-        "voltage2": "100V",
-        "current": "180MA",
-        "pf": ">0.9",
-        "surge": "4KV",
-        "typeo": "Non Isolated"
-
+        "id": "prism2",
+        "name": "IL-0222/2 Prism Led Wall Light",
+        "category": "Prism",
+        "subcategory": "Watt: 2W",
+        "image": "pics/8_2.jpg",
+        "imageie": "/pics/8_2.jpg",
+        "power": ["2W"],
+        "dimension": "175X95X40",
+        "featured": false
     },
 
     {
-        "id": "tropicr",
-        "name": "120+120 LED",
-        "category": "6 Inch Panel & PCB Solution",
-        "subcategory": "Tri Color 6 Panel",
-        "image": "pics/12_b.jpg",
-        "imageie": "/pics/12_b.jpg",
-        "dimension": "134MM",
-        "color": "All Color",
-        "typeo": "Square"
-
+        "id": "prism3",
+        "name": "IL-0222/3 Prism Led Wall Light",
+        "category": "Prism",
+        "subcategory": "Watt: 3W",
+        "image": "pics/8_3.jpg",
+        "imageie": "/pics/8_3.jpg",
+        "power": ["3W"],
+        "dimension": "175X40",
+        "featured": false
     },
 
     {
-        "id": "tropics",
-        "name": "120+120 LED 2",
-        "category": "6 Inch Panel & PCB Solution",
-        "subcategory": "Tri Color 6 Panel",
-        "image": "pics/12_c.jpg",
-        "imageie": "/pics/12_c.jpg",
-        "dimension": "130MM",
-        "color": "All Color",
-        "typeo": "Round"
-
+        "id": "prism4",
+        "name": "IL-0222/Y Prism Led Wall Light",
+        "category": "Prism",
+        "subcategory": "Watt: 4W",
+        "image": "pics/8_4.jpg",
+        "imageie": "/pics/8_4.jpg",
+        "power": ["4W"],
+        "dimension": "140X130X40",
+        "featured": false
     },
 
     {
-        "id": "lunatici",
-        "name": "3W COB",
-        "category": "COB & PCB Solution",
-        "subcategory": "3W-5W COB",
-        "image": "pics/13_a.jpg",
-        "imageie": "/pics/13_a.jpg",
-        "voltage1": "100 - 300V",
-        "voltage2": "63V",
-        "current": "55MA",
-        "pf": ">0.5",
-        "surge": "2.5KV",
-        "typeo": "Non Isolated"
-
+        "id": "prism5",
+        "name": "IL-0222/X Prism Led Wall Light",
+        "category": "Prism",
+        "subcategory": "Watt: 4W",
+        "image": "pics/8_5.jpg",
+        "imageie": "/pics/8_5.jpg",
+        "power": ["4W"],
+        "dimension": "160X100X40",
+        "featured": false
     },
 
     {
-        "id": "tropict",
-        "name": "6 LED",
-        "category": "COB & PCB Solution",
-        "subcategory": "3W-5W COB",
-        "image": "pics/13_b.jpg",
-        "imageie": "/pics/13_b.jpg",
-        "dimension": "35MM",
-        "color": "All Color",
-        "typeo": "Square"
-
-    },
-    
-    {
-        "id": "tropicu",
-        "name": "3W DOB",
-        "category": "COB & PCB Solution",
-        "subcategory": "3W-5W COB",
-        "image": "pics/13_c.jpg",
-        "imageie": "/pics/13_c.jpg",
-        "dimension": "25.6 X 30.6MM",
-        "color": "All Color",
-        "typeo": "Square"
-
+        "id": "prism6",
+        "name": "IL-0222/4 Prism Led Wall Light",
+        "category": "Prism",
+        "subcategory": "Watt: 4W",
+        "image": "pics/8_6.jpg",
+        "imageie": "/pics/8_6.jpg",
+        "power": ["4W"],
+        "dimension": "175X40",
+        "featured": false
     },
 
     {
-        "id": "lunaticj",
-        "name": "7W COB",
-        "category": "COB & PCB Solution",
-        "subcategory": "7W COB",
-        "image": "pics/14_a.jpg",
-        "imageie": "/pics/14_a.jpg",
-        "voltage1": "100 - 300V",
-        "voltage2": "100V",
-        "current": "80MA",
-        "pf": ">0.5",
-        "surge": "4KV",
-        "typeo": "Non Isolated"
-
+        "id": "prism7",
+        "name": "IL-0222/5 Prism Led Wall Light",
+        "category": "Prism",
+        "subcategory": "Watt: 5W",
+        "image": "pics/8_7.jpg",
+        "imageie": "/pics/8_7.jpg",
+        "power": ["5W"],
+        "dimension": "175X40",
+        "featured": false
     },
 
     {
-        "id": "tropicv",
-        "name": "8 LED",
-        "category": "COB & PCB Solution",
-        "subcategory": "7W COB",
-        "image": "pics/14_b.jpg",
-        "imageie": "/pics/14_b.jpg",
-        "dimension": "40 X 24MM",
-        "color": "All Color",
-        "typeo": "Square"
-
+        "id": "prism8",
+        "name": "IL-0222/6 Prism Led Wall Light",
+        "category": "Prism",
+        "subcategory": "Watt: 6W",
+        "image": "pics/8_8.jpg",
+        "imageie": "/pics/8_8.jpg",
+        "power": ["6W"],
+        "dimension": "175X40",
+        "featured": false
     },
 
     {
-        "id": "tropicw",
-        "name": "5+5 LED Tri Color",
-        "category": "COB & PCB Solution",
-        "subcategory": "7W COB",
-        "image": "pics/14_c.jpg",
-        "imageie": "/pics/14_c.jpg",
-        "dimension": "40 X 24MM",
-        "color": "All Color",
-        "typeo": "Square"
-
-    },
-
-
-    {
-        "id": "lunatick",
-        "name": "9W COB",
-        "category": "COB & PCB Solution",
-        "subcategory": "9W COB",
-        "image": "pics/15_a.jpg",
-        "imageie": "/pics/15_a.jpg",
-        "voltage1": "100 - 300V",
-        "voltage2": "100V",
-        "current": "80MA",
-        "pf": ">0.5",
-        "surge": "4KV",
-        "typeo": "Non Isolated",
-        "featured": true
-
+        "id": "prism9",
+        "name": "IL-0222/8 Prism Led Wall Light",
+        "category": "Prism",
+        "subcategory": "Watt: 8W",
+        "image": "pics/8_9.jpg",
+        "imageie": "/pics/8_9.jpg",
+        "power": ["8W"],
+        "dimension": "175X40",
+        "featured": false
     },
 
     {
-        "id": "tropicx",
-        "name": "10 LED COB",
-        "category": "COB & PCB Solution",
-        "subcategory": "9W COB",
-        "image": "pics/15_b.jpg",
-        "imageie": "/pics/15_b.jpg",
-        "dimension": "40 X 29MM",
-        "color": "All Color",
-        "typeo": "Square"
-
-    },
-
-    {
-        "id": "lunaticl",
-        "name": "9W Bulb",
-        "category": "Bulb & PCB Solution",
-        "subcategory": "Single Color Bulb",
-        "image": "pics/16_a.jpg",
-        "imageie": "/pics/16_a.jpg",
-        "voltage1": "100 - 300V",
-        "voltage2": "100V",
-        "current": "95MA",
-        "pf": ">0.9",
-        "surge": "4KV",
-        "typeo": "Non Isolated"
-
-    },
-
-    
-    {
-        "id": "lunaticm",
-        "name": "9W Bulb 2",
-        "category": "Bulb & PCB Solution",
-        "subcategory": "Single Color Bulb",
-        "image": "pics/16_b.jpg",
-        "imageie": "/pics/16_b.jpg",
-        "voltage1": "100 - 300V",
-        "voltage2": "100V",
-        "current": "95MA",
-        "pf": ">0.9",
-        "surge": "4KV",
-        "typeo": "Non Isolated"
-
-    },
-
-    {
-        "id": "tropicy",
-        "name": "5 LED BB",
-        "category": "Bulb & PCB Solution",
-        "subcategory": "Single Color Bulb",
-        "image": "pics/16_c.jpg",
-        "imageie": "/pics/16_c.jpg",
-        "dimension": "24 X 26MM",
-        "color": "All Color",
-        "typeo": "Square"
-
-    },
-
-    {
-        "id": "tropicz",
-        "name": "7 LED BB",
-        "category": "Bulb & PCB Solution",
-        "subcategory": "Single Color Bulb",
-        "image": "pics/16_d.jpg",
-        "imageie": "/pics/16_d.jpg",
-        "dimension": "24 X 26MM",
-        "color": "All Color",
-        "typeo": "Square"
-
-    },
-
-    {
-        "id": "tropicza",
-        "name": "9 LED BB",
-        "category": "Bulb & PCB Solution",
-        "subcategory": "Single Color Bulb",
-        "image": "pics/16_e.jpg",
-        "imageie": "/pics/16_e.jpg",
-        "dimension": "24 X 26MM",
-        "color": "All Color",
-        "typeo": "Square"
-
-    },
-
-    {
-        "id": "tropiczb",
-        "name": "12W 14 LED",
-        "category": "Bulb & PCB Solution",
-        "subcategory": "12-18W BULB",
-        "image": "pics/17_a.jpg",
-        "imageie": "/pics/17_a.jpg",
-        "dimension": "25 X 35MM",
-        "color": "All Color",
-        "typeo": "Square"
-
-    },
-
-    {
-        "id": "tropiczc",
-        "name": "15W 16 LED",
-        "category": "Bulb & PCB Solution",
-        "subcategory": "12-18W BULB",
-        "image": "pics/17_b.jpg",
-        "imageie": "/pics/17_b.jpg",
-        "dimension": "25 X 35MM",
-        "color": "All Color",
-        "typeo": "Square"
-
-    },
-
-
-    {
-        "id": "lunaticn",
-        "name": "12-18W Bulb",
-        "category": "Bulb & PCB Solution",
-        "subcategory": "12-18W BULB",
-        "image": "pics/17_c.jpg",
-        "imageie": "/pics/17_c.jpg",
-        "voltage1": "100 - 300V",
-        "voltage2": "100V",
-        "current": "180MA",
-        "pf": ">0.9",
-        "surge": "4KV",
-        "typeo": "Non Isolated"
-
-    },
-
-    {
-        "id": "lunatico",
-        "name": "30W Bulb",
-        "category": "Bulb & PCB Solution",
-        "subcategory": "12-18W BULB",
-        "image": "pics/17_d.jpg",
-        "imageie": "/pics/17_d.jpg",
-        "voltage1": "100 - 300V",
-        "voltage2": "100V",
-        "current": "300MA",
-        "pf": ">0.9",
-        "surge": "4KV",
-        "typeo": "Non Isolated"
-
-    },
-
-    {
-        "id": "tropiczd",
-        "name": "40 LED",
-        "category": "Bulb & PCB Solution",
-        "subcategory": "30W BULB",
-        "image": "pics/18_a.jpg",
-        "imageie": "/pics/18_a.jpg",
-        "dimension": "76MM",
-        "color": "All Color",
-        "typeo": "Round",
-        "featured": true
-
-    },
-
-    {
-        "id": "lunaticp",
-        "name": "40W Bulb",
-        "category": "Bulb & PCB Solution",
-        "subcategory": "40W BULB",
-        "image": "pics/19_a.jpg",
-        "imageie": "/pics/19_a.jpg",
-        "voltage1": "100 - 300V",
-        "voltage2": "100V",
-        "current": "400MA",
-        "pf": ">0.9",
-        "surge": "4KV",
-        "typeo": "Non Isolated"
-
-    },
-
-    {
-        "id": "tropicze",
-        "name": "50 LED",
-        "category": "Bulb & PCB Solution",
-        "subcategory": "40W BULB",
-        "image": "pics/19_b.jpg",
-        "imageie": "/pics/19_b.jpg",
-        "dimension": "80MM",
-        "color": "All Color",
-        "typeo": "Round"
-
-    },
-
-    {
-        "id": "lunaticq",
-        "name": "50W Bulb",
-        "category": "Bulb & PCB Solution",
-        "subcategory": "50W BULB",
-        "image": "pics/20_a.jpg",
-        "imageie": "/pics/20_a.jpg",
-        "voltage1": "100 - 300V",
-        "voltage2": "100V",
-        "current": "525MA",
-        "pf": ">0.9",
-        "surge": "4KV",
-        "typeo": "Non Isolated"
-
-    },
-
-    {
-        "id": "tropiczf",
-        "name": "70 LED",
-        "category": "Bulb & PCB Solution",
-        "subcategory": "50W BULB",
-        "image": "pics/20_b.jpg",
-        "imageie": "/pics/20_b.jpg",
-        "dimension": "80MM",
-        "color": "All Color",
-        "typeo": "Round"
-
-    },
-
-    {
-        "id": "pacifica",
-        "name": "Single Color Strip",
-        "category": "Flexible Strip And Driver",
-        "subcategory": "Single Color Strip",
-        "image": "pics/21_a.jpg",
-        "imageie": "/pics/21_a.jpg",
-        "source": ["6W","12W","15W","18W"],
-        "lengthy": ["15S 2P 289/331","12S 5P 438/525","15S 5P 438/525","18S 5P 591/726"],
-        "color": "CW/WW/NW",
-        "typeo": "Square"
-    },
-
-
-    {
-        "id": "lunatics",
-        "name": "8W Strip Driver",
-        "category": "Flexible Strip And Driver",
-        "subcategory": "Single Color Strip",
-        "image": "pics/21_b.jpg",
-        "imageie": "/pics/21_b.jpg",
-        "voltage1": "100 - 300V",
-        "voltage2": "63V",
-        "current": "120MA",
-        "pf": ">0.9",
-        "surge": "4KV",
-        "typeo": "Non Isolated"
-
-    },
-
-    {
-        "id": "lunatict",
-        "name": "12-18W Strip Driver",
-        "category": "Flexible Strip And Driver",
-        "subcategory": "Single Color Strip",
-        "image": "pics/21_c.jpg",
-        "imageie": "/pics/21_c.jpg",
-        "voltage1": "100 - 300V",
-        "voltage2": "82V",
-        "current": "300MA",
-        "pf": ">0.9",
-        "surge": "4KV",
-        "typeo": "Non Isolated"
-
-    },
-
-
-    {
-        "id": "lunaticu",
-        "name": "12-15W Strip Driver",
-        "category": "Flexible Strip And Driver",
-        "subcategory": "Single Color Strip",
-        "image": "pics/21_d.jpg",
-        "imageie": "/pics/21_d.jpg",
-        "voltage1": "100 - 300V",
-        "voltage2": "52V",
-        "current": "300MA",
-        "pf": ">0.5",
-        "surge": "4KV",
-        "typeo": "Non Isolated"
-
-    },
-
-    {
-        "id": "pacificb",
-        "name": "Tri Color Strip",
-        "category": "Flexible Strip And Driver",
-        "subcategory": "Tri Color Strip",
-        "image": "pics/22_a.jpg",
-        "imageie": "/pics/22_a.jpg",
-        "source": ["6W","12W","18W"],
-        "lengthy": ["6S 5P 289/331","12S 5P 438/525","18S 5P 591/726"],
-        "color": "CW/WW & RED+BLUE",
-        "typeo": "Square",
+        "id": "turtle1",
+        "name": "IL-4102 Wall Light",
+        "category": "Turtle",
+        "subcategory": "LED: 1X2=2W",
+        "image": "pics/9_1.jpg",
+        "imageie": "/pics/9_1.jpg",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Lens",
+        "colors": ["Graphite Grey/Black"],
         "featured": true
     },
 
     {
-        "id": "lunaticv",
-        "name": "6W Strip Driver",
-        "category": "Flexible Strip And Driver",
-        "subcategory": "Tri Color Strip",
-        "image": "pics/22_b.jpg",
-        "imageie": "/pics/22_b.jpg",
-        "voltage1": "100 - 300V",
-        "voltage2": "35V",
-        "current": "300MA",
-        "pf": ">0.5",
-        "surge": "2.5KV",
-        "typeo": "Non Isolated"
-
-    },
-
-    {
-        "id": "lunaticw",
-        "name": "12-18W Strip Driver",
-        "category": "Flexible Strip And Driver",
-        "subcategory": "Tri Color Strip",
-        "image": "pics/22_c.jpg",
-        "imageie": "/pics/22_c.jpg",
-        "voltage1": "100 - 300V",
-        "voltage2": "100V",
-        "current": "300MA",
-        "pf": ">0.9",
-        "surge": "4KV",
-        "typeo": "Non Isolated"
-
-    },
-
-    {
-        "id": "tropiczg",
-        "name": "3W DOB 1",
-        "category": "DOB Solution",
-        "subcategory": "Single Color DOB Solutions",
-        "image": "pics/23_a.jpg",
-        "imageie": "/pics/23_a.jpg",
-        "dimension": "30MM",
-        "color": "All Color",
-        "typeo": "Round"
-
-    },
-
-    {
-        "id": "tropiczh",
-        "name": "3W DOB 2",
-        "category": "DOB Solution",
-        "subcategory": "Single Color DOB Solutions",
-        "image": "pics/23_b.jpg",
-        "imageie": "/pics/23_b.jpg",
-        "dimension": "39.5MM",
-        "color": "All Color",
-        "typeo": "Round"
-
-    },
-
-    {
-        "id": "tropiczi",
-        "name": "7W DOB 1",
-        "category": "DOB Solution",
-        "subcategory": "Single Color DOB Solutions",
-        "image": "pics/23_c.jpg",
-        "imageie": "/pics/23_c.jpg",
-        "dimension": "72MM",
-        "color": "All Color",
-        "typeo": "Round",
+        "id": "turtle2",
+        "name": "IL-4104 Wall Light",
+        "category": "Turtle",
+        "subcategory": "LED: 1X4=4W",
+        "image": "pics/9_2.jpg",
+        "imageie": "/pics/9_2.jpg",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Lens",
+        "colors": ["Graphite Grey/Black"],
         "featured": true
-
     },
 
     {
-        "id": "tropiczj",
-        "name": "3W DOB 3",
-        "category": "DOB Solution",
-        "subcategory": "Single Color DOB Solutions",
-        "image": "pics/23_d.jpg",
-        "imageie": "/pics/23_d.jpg",
-        "dimension": "25.6 X 30.6MM",
-        "color": "All Color",
-        "typeo": "Square"
-
+        "id": "turtle3",
+        "name": "IL-4106 Wall Light",
+        "category": "Turtle",
+        "subcategory": "LED: 1X6=6W",
+        "image": "pics/9_3.jpg",
+        "imageie": "/pics/9_3.jpg",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Lens",
+        "colors": ["Graphite Grey/Black"],
+        "featured": true
     },
 
     {
-        "id": "tropiczk",
-        "name": "2W Spot",
-        "category": "DOB Solution",
-        "subcategory": "Single Color DOB Solutions",
-        "image": "pics/23_e.jpg",
-        "imageie": "/pics/23_e.jpg",
-        "dimension": "28MM",
-        "color": "All Color",
-        "typeo": "Round"
-
+        "id": "klite1",
+        "name": "IL-059 Wall Light",
+        "category": "K-Lite",
+        "subcategory": "LED: 3W, 5W",
+        "image": "pics/10_1.jpg",
+        "imageie": "/pics/10_1.jpg",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with Toughened Glass",
+        "colors": ["Graphite Grey/Black"],
+        "featured": true
     },
 
     {
-        "id": "accessa",
-        "name": "2 Pin",
-        "category": "Accessories",
-        "subcategory": "Accessories part",
-        "image": "pics/24_a.jpg",
-        "imageie": "/pics/24_a.jpg",
-        "dimension": "150MM",
-        "color": "Orange"
-
+        "id": "klite2",
+        "name": "IL-059 Wall Light",
+        "category": "K-Lite",
+        "subcategory": "LED: 6W, 10W",
+        "image": "pics/10_2.jpg",
+        "imageie": "/pics/10_2.jpg",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with Toughened Glass",
+        "colors": ["Graphite Grey/Black"],
+        "featured": true
     },
 
     {
-        "id": "accessb",
-        "name": "3 Pin",
-        "category": "Accessories",
-        "subcategory": "Accessories part",
-        "image": "pics/24_b.jpg",
-        "imageie": "/pics/24_b.jpg",
-        "dimension": "120MM",
-        "color": "Orange"
-
+        "id": "purse1",
+        "name": "IL-234 Wall Light",
+        "category": "Purse",
+        "subcategory": "LED: 12W",
+        "image": "pics/11_1.jpg",
+        "imageie": "/pics/11_1.jpg",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with Toughened Glass",
+        "colors": ["Graphite Grey/Black"],
+        "featured": true
     },
 
     {
-        "id": "accessc",
-        "name": "DC Wire",
-        "category": "Accessories",
-        "subcategory": "Accessories part",
-        "image": "pics/24_c.jpg",
-        "imageie": "/pics/24_c.jpg",
-        "dimension": "70MM",
-        "color": "Red & Black"
-
+        "id": "purse2",
+        "name": "IL-234 Wall Light",
+        "category": "Purse",
+        "subcategory": "LED: 18W",
+        "image": "pics/11_2.jpg",
+        "imageie": "/pics/11_2.jpg",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with Toughened Glass",
+        "colors": ["Graphite Grey/Black"],
+        "featured": true
     },
 
     {
-        "id": "accessd",
-        "name": "AC Wire",
-        "category": "Accessories",
-        "subcategory": "Accessories part",
-        "image": "pics/24_d.jpg",
-        "imageie": "/pics/24_d.jpg",
-        "color": "Red & White",
-        "dimension": "130MM"
+        "id": "cube1",
+        "name": "IL-1192 Square Wall Light",
+        "category": "Cube",
+        "subcategory": "LED: 1W",
+        "image": "pics/12_1.jpg",
+        "imageie": "/pics/12_1.jpg",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Lens",
+        "colors": ["Graphite Grey"],
+        "featured": true
     },
 
     {
-        "id": "accesse",
-        "name": "RTV",
-        "category": "Accessories",
-        "subcategory": "Accessories part",
-        "image": "pics/24_e.jpg",
-        "imageie": "/pics/24_e.jpg",
-        "color": "Red & Blue",
-        "dimension": "75MM"
+        "id": "cube2",
+        "name": "IL-1192 Square Wall Light",
+        "category": "Cube",
+        "subcategory": "LED: 2W",
+        "image": "pics/12_2.jpg",
+        "imageie": "/pics/12_2.jpg",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Lens",
+        "colors": ["Graphite Grey"],
+        "featured": true
     },
 
     {
-        "id": "accessf",
-        "name": "Spring",
-        "category": "Accessories",
-        "subcategory": "Accessories part",
-        "image": "pics/24_f.jpg",
-        "imageie": "/pics/24_f.jpg",
-        "color": "RED & BLACK",
-        "dimension": "60MM"
-        
-    }
+        "id": "moon1",
+        "name": "IL-7080 Round Wall Light",
+        "category": "Moon",
+        "subcategory": "LED: 1W",
+        "image": "pics/13_1.jpg",
+        "imageie": "/pics/13_1.jpg",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Diffuser",
+        "colors": ["Grey","Black","White"],
+        "featured": true
+    },
 
+    {
+        "id": "moon2",
+        "name": "IL-7082 Square Wall Light",
+        "category": "Moon",
+        "subcategory": "LED: 12W",
+        "image": "pics/13_2.jpg",
+        "imageie": "/pics/13_2.jpg",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Diffuser",
+        "colors": ["Grey","Black","White"],
+        "featured": true
+    },
 
+    {
+        "id": "footlite1",
+        "name": "IL-7422 Wall Light",
+        "category": "Foot Lite",
+        "subcategory": "LED: 6W",
+        "image": "pics/14_1.jpg",
+        "imageie": "/pics/14_1.jpg",
+        "dimension": "5`` X 3``",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Diffuser",
+        "colors": ["Grey","Black","White"],
+        "featured": true
+    },
 
+    {
+        "id": "footlite2",
+        "name": "IL-033 Wall Light",
+        "category": "Foot Lite",
+        "subcategory": "LED: 3W",
+        "image": "pics/14_2.jpg",
+        "imageie": "/pics/14_2.jpg",
+        "dimension": "3`` X 3``",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Diffuser",
+        "colors": ["Grey","Black","White"],
+        "featured": true
+    },
 
+    {
+        "id": "footlite3",
+        "name": "IL-025 Square Wall Light",
+        "category": "Foot Lite",
+        "subcategory": "LED: 3W",
+        "image": "pics/14_3.jpg",
+        "imageie": "/pics/14_3.jpg",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium",
+        "colors": ["Grey","Black","White"],
+        "featured": true
+    },
 
-    
+    {
+        "id": "footlite4",
+        "name": "IL-025 Round Wall Light",
+        "category": "Foot Lite",
+        "subcategory": "LED: 3W",
+        "image": "pics/14_4.jpg",
+        "imageie": "/pics/14_4.jpg",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium",
+        "colors": ["Grey","Black","White"],
+        "featured": true
+    },
+
+    {
+        "id": "gatelight1",
+        "name": "IL-177 TDI LED Gate Light",
+        "category": "TDI",
+        "subcategory": "LED: 12W,18W",
+        "image": "pics/15_1.jpg",
+        "imageie": "/pics/15_1.jpg",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Toughened Glass",
+        "colors": ["Graphite Grey"],
+        "featured": true
+    },
+
+    {
+        "id": "gatelight2",
+        "name": "IL-1052 Glare Gate Light",
+        "category": "Glare",
+        "subcategory": "LED: 12W",
+        "image": "pics/15_2.jpg",
+        "imageie": "/pics/15_2.jpg",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Toughened Glass",
+        "colors": ["Graphite Grey"],
+        "featured": true
+    },
+
+    {
+        "id": "Quantam1",
+        "name": "IL-7788 Quantam Gate Light",
+        "category": "Quantam",
+        "subcategory": "LED: 15W/Holder E-27",
+        "image": "pics/16_1.jpg",
+        "imageie": "/pics/16_1.jpg",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Glass",
+        "colors": ["Graphite Grey/Black"],
+        "featured": true
+    },
+
+    {
+        "id": "Quantam2",
+        "name": "IL-7788 Quantam Gate Light",
+        "category": "Quantam",
+        "subcategory": "LED: 8W/Holder E-27",
+        "image": "pics/16_2.jpg",
+        "imageie": "/pics/16_2.jpg",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Glass",
+        "colors": ["Graphite Grey/Black"],
+        "featured": true
+    } 
 
     
 

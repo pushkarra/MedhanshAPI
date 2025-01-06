@@ -29,6 +29,10 @@ const productSchema = new mongoose.Schema({
         type: [String],
         required:false,
     },
+    colortemp:{
+        type: [String],
+        required:false,
+    },
     
     lumen: {
         type: [String],
