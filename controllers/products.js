@@ -44,15 +44,24 @@ const getAllProducts = async (req, res) => {
     }
 
     // Pagination
-    // const pageInt = parseInt(page) || 1;
-    // const limitInt = parseInt(limit) || 10;
-    // const skip = (pageInt - 1) * limitInt;
+    const pageInt = parseInt(page) || 1;
+    const limitInt = parseInt(limit) || 18;
+    const skip = (pageInt - 1) * limitInt;
 
-    // apiData = apiData.skip(skip).limit(limitInt).lean();
+    apiData = apiData.skip(skip).limit(limitInt);
 
     const Products = await apiData;
 
-    res.status(200).json(Products);
+    // Total Count (Optional for frontend display)
+    const totalProducts = await Product.countDocuments(queryObject);
+
+    res.status(200).json({
+        total: totalProducts,
+        page: pageInt,
+        limit: limitInt,
+        totalPages: Math.ceil(totalProducts / limitInt),
+        products: Products,
+    });
 };
 
 // Fetch a single product by id
