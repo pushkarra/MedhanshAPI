@@ -48,20 +48,11 @@ const getAllProducts = async (req, res) => {
     const limitInt = parseInt(limit) || 18;
     const skip = (pageInt - 1) * limitInt;
 
-    apiData = apiData.skip(skip).limit(limitInt);
+    apiData = apiData.skip(skip).limit(limitInt).lean();
 
     const Products = await apiData;
 
-    // Total Count (Optional for frontend display)
-    const totalProducts = await Product.countDocuments(queryObject);
-
-    res.status(200).json({
-        total: totalProducts,
-        page: pageInt,
-        limit: limitInt,
-        totalPages: Math.ceil(totalProducts / limitInt),
-        products: Products,
-    });
+    res.status(200).json(Products);
 };
 
 // Fetch a single product by id
