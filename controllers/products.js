@@ -52,7 +52,16 @@ const getAllProducts = async (req, res) => {
 
     const Products = await apiData;
 
-    res.status(200).json(Products);
+    const totalProducts = await Product.countDocuments(queryObject);
+
+    // res.status(200).json(Products);
+    res.status(200).json({
+        total: totalProducts,
+        page: pageInt,
+        limit: limitInt,
+        totalPages: Math.ceil(totalProducts / limitInt),
+        products: Products,
+    });
 };
 
 // Fetch a single product by id
