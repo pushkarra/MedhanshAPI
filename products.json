@@ -1,4 +1,116 @@
 [
+
+    {
+        "id": "medhanshlightingd",
+        "name": "IL-0606 Led 2 Way Wall Light",
+        "category": "Leaf",
+        "subcategory": "Watt: 2W",
+        "image": "pics/2_1.png",
+        "imageie": "/pics/2_1.png",
+        "power": ["2 W"],
+        "colortemp": ["3000K"],
+        "colors": ["Grey/Black"],
+        "featured": true
+    },
+
+    {
+        "id": "turtle3",
+        "name": "IL-4106 Wall Light",
+        "category": "Turtle",
+        "subcategory": "LED: 1X6=6W",
+        "image": "pics/9_3.png",
+        "imageie": "/pics/9_3.png",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Lens",
+        "colors": ["Graphite Grey/Black"],
+        "featured": true
+    },
+
+    {
+        "id": "moon1",
+        "name": "IL-7080 Round Wall Light",
+        "category": "Moon",
+        "subcategory": "LED: 1W",
+        "image": "pics/13_1.png",
+        "imageie": "/pics/13_1.png",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Diffuser",
+        "colors": ["Grey","Black","White"],
+        "featured": true
+    },
+
+    {
+        "id": "polelight3",
+        "name": "IL-177 TDI E-27 Bollard",
+        "category": "TDI Pole Light",
+        "subcategory": "E-27",
+        "image": "pics/a_3.png",
+        "imageie": "/pics/a_3.png",
+        "typeo": "Die Casting Aluminium with PC Toughened Glass",
+        "colors": ["Graphite Grey"],
+        "featured": true
+    },
+
+    {
+        "id": "leo1",
+        "name": "IL-1062 Gate Light",
+        "category": "Leo",
+        "subcategory": "LED: 12W",
+        "image": "pics/c_1.png",
+        "imageie": "/pics/c_1.png",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Diffuser",
+        "colors": ["Graphite Grey"],
+        "featured": true
+    },
+
+    {
+        "id": "yureca1",
+        "name": "IL-1050 Gate Light",
+        "category": "Yureca",
+        "subcategory": "LED: 12W",
+        "image": "pics/g_1.png",
+        "imageie": "/pics/g_1.png",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Diffuser",
+        "colors": ["Graphite Grey"],
+        "featured": true
+    },
+
+    {
+        "id": "post-top1",
+        "name": "IL-7748 Post-top Lamp",
+        "category": "Post-top",
+        "subcategory": "LED: 50W",
+        "image": "pics/l_1.png",
+        "imageie": "/pics/l_1.png",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Diffuser",
+        "colors": ["Graphite Grey"],
+        "featured": true
+    },
+
+    {
+        "id": "pearl2",
+        "name": "IL-1051 Bollard",
+        "category": "Pearl",
+        "subcategory": "LED: 12W",
+        "image": "pics/h_2.png",
+        "imageie": "/pics/h_2.png",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Diffuser",
+        "colors": ["Graphite Grey"],
+        "featured": true
+    },
+
+
+
+
+
+
+
+
+
     {
         "id": "medhanshlightinga",
         "name": "IL-4404 Wall Light",
@@ -10,7 +122,7 @@
         "typeo": "Die Casting Aluminium with PC Lens",
         "size" : ["4 Inch","5 Inch","6 Inch","8 Inch"],
         "colors": ["Graphite Grey/Black"],
-        "featured": true
+        "featured": false
     },
 
     {
@@ -41,18 +153,7 @@
         "featured": false
     },
 
-    {
-        "id": "medhanshlightingd",
-        "name": "IL-0606 Led 2 Way Wall Light",
-        "category": "Leaf",
-        "subcategory": "Watt: 2W",
-        "image": "pics/2_1.png",
-        "imageie": "/pics/2_1.png",
-        "power": ["2 W"],
-        "colortemp": ["3000K"],
-        "colors": ["Grey/Black"],
-        "featured": false
-    },
+    
 
 
     {
@@ -264,7 +365,7 @@
         "colortemp": ["3000K","6000K"],
         "typeo": "Die Casting Aluminium with PC Lens",
         "colors": ["Graphite Grey/Black"],
-        "featured": true
+        "featured": false
     },
 
     {
@@ -277,21 +378,10 @@
         "colortemp": ["3000K","6000K"],
         "typeo": "Die Casting Aluminium with PC Lens",
         "colors": ["Graphite Grey/Black"],
-        "featured": true
+        "featured": false
     },
 
-    {
-        "id": "turtle3",
-        "name": "IL-4106 Wall Light",
-        "category": "Turtle",
-        "subcategory": "LED: 1X6=6W",
-        "image": "pics/9_3.png",
-        "imageie": "/pics/9_3.png",
-        "colortemp": ["3000K","6000K"],
-        "typeo": "Die Casting Aluminium with PC Lens",
-        "colors": ["Graphite Grey/Black"],
-        "featured": true
-    },
+    
 
     {
         "id": "klite1",
@@ -303,7 +393,7 @@
         "colortemp": ["3000K","6000K"],
         "typeo": "Die Casting Aluminium with Toughened Glass",
         "colors": ["Graphite Grey/Black"],
-        "featured": true
+        "featured": false
     },
 
     {
@@ -316,7 +406,7 @@
         "colortemp": ["3000K","6000K"],
         "typeo": "Die Casting Aluminium with Toughened Glass",
         "colors": ["Graphite Grey/Black"],
-        "featured": true
+        "featured": false
     },
 
     {
@@ -329,7 +419,7 @@
         "colortemp": ["3000K","6000K"],
         "typeo": "Die Casting Aluminium with Toughened Glass",
         "colors": ["Graphite Grey/Black"],
-        "featured": true
+        "featured": false
     },
 
     {
@@ -342,7 +432,7 @@
         "colortemp": ["3000K","6000K"],
         "typeo": "Die Casting Aluminium with Toughened Glass",
         "colors": ["Graphite Grey/Black"],
-        "featured": true
+        "featured": false
     },
 
     {
@@ -355,7 +445,7 @@
         "colortemp": ["3000K","6000K"],
         "typeo": "Die Casting Aluminium with PC Lens",
         "colors": ["Graphite Grey"],
-        "featured": true
+        "featured": false
     },
 
     {
@@ -368,21 +458,10 @@
         "colortemp": ["3000K","6000K"],
         "typeo": "Die Casting Aluminium with PC Lens",
         "colors": ["Graphite Grey"],
-        "featured": true
+        "featured": false
     },
 
-    {
-        "id": "moon1",
-        "name": "IL-7080 Round Wall Light",
-        "category": "Moon",
-        "subcategory": "LED: 1W",
-        "image": "pics/13_1.png",
-        "imageie": "/pics/13_1.png",
-        "colortemp": ["3000K","6000K"],
-        "typeo": "Die Casting Aluminium with PC Diffuser",
-        "colors": ["Grey","Black","White"],
-        "featured": true
-    },
+    
 
     {
         "id": "moon2",
@@ -394,7 +473,7 @@
         "colortemp": ["3000K","6000K"],
         "typeo": "Die Casting Aluminium with PC Diffuser",
         "colors": ["Grey","Black","White"],
-        "featured": true
+        "featured": false
     },
 
     {
@@ -408,7 +487,7 @@
         "colortemp": ["3000K","6000K"],
         "typeo": "Die Casting Aluminium with PC Diffuser",
         "colors": ["Grey","Black","White"],
-        "featured": true
+        "featured": false
     },
 
     {
@@ -422,7 +501,7 @@
         "colortemp": ["3000K","6000K"],
         "typeo": "Die Casting Aluminium with PC Diffuser",
         "colors": ["Grey","Black","White"],
-        "featured": true
+        "featured": false
     },
 
     {
@@ -435,7 +514,7 @@
         "colortemp": ["3000K","6000K"],
         "typeo": "Die Casting Aluminium",
         "colors": ["Grey","Black","White"],
-        "featured": true
+        "featured": false
     },
 
     {
@@ -448,7 +527,7 @@
         "colortemp": ["3000K","6000K"],
         "typeo": "Die Casting Aluminium",
         "colors": ["Grey","Black","White"],
-        "featured": true
+        "featured": false
     },
 
     {
@@ -461,7 +540,7 @@
         "colortemp": ["3000K","6000K"],
         "typeo": "Die Casting Aluminium with PC Toughened Glass",
         "colors": ["Graphite Grey"],
-        "featured": true
+        "featured": false
     },
 
     {
@@ -474,7 +553,7 @@
         "colortemp": ["3000K","6000K"],
         "typeo": "Die Casting Aluminium with PC Toughened Glass",
         "colors": ["Graphite Grey"],
-        "featured": true
+        "featured": false
     },
 
     {
@@ -487,7 +566,7 @@
         "colortemp": ["3000K","6000K"],
         "typeo": "Die Casting Aluminium with PC Glass",
         "colors": ["Graphite Grey/Black"],
-        "featured": true
+        "featured": false
     },
 
     {
@@ -500,8 +579,371 @@
         "colortemp": ["3000K","6000K"],
         "typeo": "Die Casting Aluminium with PC Glass",
         "colors": ["Graphite Grey/Black"],
-        "featured": true
-    } 
+        "featured": false
+    },
+
+
+
+
+
+
+    {
+        "id": "polelight1",
+        "name": "IL-177 Pole Light",
+        "category": "TDI Pole Light",
+        "subcategory": "TDI E-27 Pole",
+        "image": "pics/a_1.png",
+        "imageie": "/pics/a_1.png",
+        "typeo": "Die Casting Aluminium with PC Toughened Glass",
+        "colors": ["Graphite Grey"],
+        "featured": false
+    },
+
+    {
+        "id": "polelight2",
+        "name": "IL-177 TDI E-27 Gate Light",
+        "category": "TDI Pole Light",
+        "subcategory": "E-27",
+        "image": "pics/a_2.png",
+        "imageie": "/pics/a_2.png",
+        "typeo": "Die Casting Aluminium with PC Toughened Glass",
+        "colors": ["Graphite Grey"],
+        "featured": false
+    },
+
+    
+
+    {
+        "id": "polelight4",
+        "name": "IL-177 TDI E-27 Bollard",
+        "category": "TDI Pole Light",
+        "subcategory": "E-27",
+        "image": "pics/a_4.png",
+        "imageie": "/pics/a_4.png",
+        "typeo": "Die Casting Aluminium with PC Toughened Glass",
+        "colors": ["Graphite Grey"],
+        "featured": false
+    },
+
+    {
+        "id": "unicorn1",
+        "name": "IL-1515 Gate Light",
+        "category": "Unicorn",
+        "subcategory": "LED: 12W(COB)",
+        "image": "pics/b_1.png",
+        "imageie": "/pics/b_1.png",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with Toughened Glass",
+        "colors": ["Graphite Grey"],
+        "featured": false
+    },
+
+    {
+        "id": "unicorn2",
+        "name": "IL-1515 Bollard",
+        "category": "Unicorn",
+        "subcategory": "LED: 12W(COB)",
+        "image": "pics/b_2.png",
+        "imageie": "/pics/b_2.png",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with Toughened Glass",
+        "colors": ["Graphite Grey"],
+        "featured": false
+    },
+
+    
+
+    {
+        "id": "leo2",
+        "name": "IL-1062 Bollard",
+        "category": "Leo",
+        "subcategory": "LED: 12W",
+        "image": "pics/c_2.png",
+        "imageie": "/pics/c_2.png",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Diffuser",
+        "colors": ["Graphite Grey"],
+        "featured": false
+    },
+
+    {
+        "id": "leo3",
+        "name": "IL-1062 Bollard",
+        "category": "Leo",
+        "subcategory": "LED: 12W",
+        "image": "pics/c_3.png",
+        "imageie": "/pics/c_3.png",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Diffuser",
+        "colors": ["Graphite Grey"],
+        "featured": false
+    },
+
+    {
+        "id": "twintower1",
+        "name": "IL-1063 Gate Light",
+        "category": "Twin Tower",
+        "subcategory": "LED: 24W",
+        "image": "pics/d_1.png",
+        "imageie": "/pics/d_1.png",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Diffuser",
+        "colors": ["Graphite Grey"],
+        "featured": false
+    },
+
+    {
+        "id": "twintower2",
+        "name": "IL-1063 Gate Light",
+        "category": "Twin Tower",
+        "subcategory": "LED: 24W",
+        "image": "pics/d_2.png",
+        "imageie": "/pics/d_2.png",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Diffuser",
+        "colors": ["Graphite Grey"],
+        "featured": false
+    },
+
+    {
+        "id": "twintower3",
+        "name": "IL-1063 Gate Light",
+        "category": "Twin Tower",
+        "subcategory": "LED: 24W",
+        "image": "pics/d_3.png",
+        "imageie": "/pics/d_3.png",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Diffuser",
+        "colors": ["Graphite Grey"],
+        "featured": false
+    },
+
+    {
+        "id": "squaremoon1",
+        "name": "IL-7082 Gate Light",
+        "category": "Square Moon",
+        "subcategory": "LED: 12W",
+        "image": "pics/e_1.png",
+        "imageie": "/pics/e_1.png",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Diffuser",
+        "colors": ["Graphite Grey"],
+        "featured": false
+    },
+
+    {
+        "id": "squaremoon2",
+        "name": "IL-7082 Bollard",
+        "category": "Square Moon",
+        "subcategory": "LED: 12W",
+        "image": "pics/e_2.png",
+        "imageie": "/pics/e_2.png",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Diffuser",
+        "colors": ["Graphite Grey"],
+        "featured": false
+    },
+
+    {
+        "id": "squaremoon3",
+        "name": "IL-7082 Bollard",
+        "category": "Square Moon",
+        "subcategory": "LED: 12W",
+        "image": "pics/e_3.png",
+        "imageie": "/pics/e_3.png",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Diffuser",
+        "colors": ["Graphite Grey"],
+        "featured": false
+    },
+
+    {
+        "id": "roundmoon1",
+        "name": "IL-7080 Gate Light",
+        "category": "Round Moon",
+        "subcategory": "LED: 12W",
+        "image": "pics/f_1.png",
+        "imageie": "/pics/f_1.png",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Diffuser",
+        "colors": ["Graphite Grey"],
+        "featured": false
+    },
+
+    {
+        "id": "roundmoon2",
+        "name": "IL-7080 Bollard",
+        "category": "Round Moon",
+        "subcategory": "LED: 12W",
+        "image": "pics/f_2.png",
+        "imageie": "/pics/f_2.png",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Diffuser",
+        "colors": ["Graphite Grey"],
+        "featured": false
+    },
+
+    {
+        "id": "roundmoon3",
+        "name": "IL-7080 Bollard",
+        "category": "Round Moon",
+        "subcategory": "LED: 12W",
+        "image": "pics/f_3.png",
+        "imageie": "/pics/f_3.png",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Diffuser",
+        "colors": ["Graphite Grey"],
+        "featured": false
+    },
+
+    
+
+    {
+        "id": "yureca2",
+        "name": "IL-1050 Bollard",
+        "category": "Yureca",
+        "subcategory": "LED: 12W",
+        "image": "pics/g_2.png",
+        "imageie": "/pics/g_2.png",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Diffuser",
+        "colors": ["Graphite Grey"],
+        "featured": false
+    },
+
+    {
+        "id": "yureca3",
+        "name": "IL-1050 Bollard",
+        "category": "Yureca",
+        "subcategory": "LED: 12W",
+        "image": "pics/g_3.png",
+        "imageie": "/pics/g_3.png",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Diffuser",
+        "colors": ["Graphite Grey"],
+        "featured": false
+    },
+
+    {
+        "id": "pearl1",
+        "name": "IL-1051 Gate Light",
+        "category": "Pearl",
+        "subcategory": "LED: 12W",
+        "image": "pics/h_1.png",
+        "imageie": "/pics/h_1.png",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Diffuser",
+        "colors": ["Graphite Grey"],
+        "featured": false
+    },
+
+    
+
+    {
+        "id": "pearl3",
+        "name": "IL-1051 Bollard",
+        "category": "Pearl",
+        "subcategory": "LED: 12W",
+        "image": "pics/h_3.png",
+        "imageie": "/pics/h_3.png",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Diffuser",
+        "colors": ["Graphite Grey"],
+        "featured": false
+    },
+
+    {
+        "id": "signature1",
+        "name": "IL-8899 Gate Light",
+        "category": "Signature",
+        "subcategory": "LED: 12W",
+        "image": "pics/i_1.png",
+        "imageie": "/pics/i_1.png",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Diffuser",
+        "colors": ["Graphite Grey"],
+        "featured": false
+    },
+
+    {
+        "id": "signature2",
+        "name": "IL-8899 Bollard",
+        "category": "Signature",
+        "subcategory": "LED: 12W",
+        "image": "pics/i_2.png",
+        "imageie": "/pics/i_2.png",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Diffuser",
+        "colors": ["Graphite Grey"],
+        "featured": false
+    },
+
+    {
+        "id": "glanza1",
+        "name": "IL-1086 Gate Light",
+        "category": "Glanza",
+        "subcategory": "LED: 12W",
+        "image": "pics/j_1.png",
+        "imageie": "/pics/j_1.png",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Diffuser",
+        "colors": ["Graphite Grey"],
+        "featured": false
+    },
+
+    {
+        "id": "glanza2",
+        "name": "IL-1086 Bollard",
+        "category": "Glanza",
+        "subcategory": "LED: 12W",
+        "image": "pics/j_2.png",
+        "imageie": "/pics/j_2.png",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Diffuser",
+        "colors": ["Graphite Grey"],
+        "featured": false
+    },
+
+    {
+        "id": "worldcup1",
+        "name": "IL-1050 Round Gate Light",
+        "category": "World Cup",
+        "subcategory": "LED: 12W",
+        "image": "pics/k_1.png",
+        "imageie": "/pics/k_1.png",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Diffuser",
+        "colors": ["Graphite Grey"],
+        "featured": false
+    },
+
+    {
+        "id": "worldcup2",
+        "name": "IL-1092 Galaxy Gate Light",
+        "category": "World Cup",
+        "subcategory": "Holder E-27",
+        "image": "pics/k_2.png",
+        "imageie": "/pics/k_2.png",
+        "typeo": "Die Casting Aluminium with PC Glass",
+        "colors": ["Graphite Grey"],
+        "featured": false
+    },
+
+    {
+        "id": "worldcup3",
+        "name": "IL-1050 Round Bollard",
+        "category": "World Cup",
+        "subcategory": "LED: 12W",
+        "image": "pics/k_3.png",
+        "imageie": "/pics/k_3.png",
+        "colortemp": ["3000K","6000K"],
+        "typeo": "Die Casting Aluminium with PC Diffuser",
+        "colors": ["Graphite Grey"],
+        "featured": false
+    }
+
+    
+
 
     
 
